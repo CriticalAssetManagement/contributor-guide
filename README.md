@@ -1,4 +1,4 @@
-# Contributor Guide
+# Contribution Guide
 
 ## Contributor Guide for CAMS
 
