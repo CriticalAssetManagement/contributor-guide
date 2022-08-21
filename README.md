@@ -1,8 +1,8 @@
+
 # Contribution Guide
 
-## Contributor Guide for CAMS
 
-## Technologies Used
+### Technologies Used
 
 CAMS is built with [TerminusDB](https://github.com/terminusdb/terminusdb), the [TerminusDB UI SDK](https://github.com/terminusdb/terminusdb-documents-ui), and [React](https://reactjs.org/), the popular JS library. The maps are [OpenStreetMap](https://www.openstreetmap.org/#map=7/53.465/-8.240). JSON is the data-interchange format. 
 
